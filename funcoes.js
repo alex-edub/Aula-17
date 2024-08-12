@@ -74,7 +74,7 @@ console.log(generos);
 let numeros = Object.values(computador);
 console.log(numeros); //[4,93,10]
 
-//kelysmoura.github.io/js-logic/#helloWorld
+//https://kelvysmoura.github.io/js-logic/challenges/
 
 function helloWorld(argumento){
     if (argumento=== undefined){
